@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @droptune
+- 👀 I’m interested in devops, python and go
